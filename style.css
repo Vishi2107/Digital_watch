@@ -19,6 +19,7 @@ h2{
 }
 .clock{
     display: flex;
+    position: relative;
 }
 .clock div{
     margin: 5px;
